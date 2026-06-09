@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Computer Science Engineering student actively building hands-on development skills through real projects rather than just coursework.<br># Strong inclination toward project-based learning—learning concepts by building and iterating rather than theory-only study.<br># Exploring integration of frontend + backend + database systems for practical applications.<br># Currently in the phase of transitioning from beginner-level projects to more structured, deployable applications.<br># Interested in improving system design thinking and building more scalable and polished applications over time.
+ Computer Science Engineering student actively building hands-on development skills through real projects rather than just coursework.<br> Strong inclination toward project-based learning—learning concepts by building and iterating rather than theory-only study.<br> Exploring integration of frontend + backend + database systems for practical applications.<br> Currently in the phase of transitioning from beginner-level projects to more structured, deployable applications.<br> Interested in improving system design thinking and building more scalable and polished applications over time.
 
 
 ## 🌐 Socials:
