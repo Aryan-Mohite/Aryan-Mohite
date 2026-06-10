@@ -12,6 +12,41 @@
 
 
 
+
+🔥 Current Focus
+
+Full-Stack Web Development
+
+AI & Intelligent Applications
+
+System Design & Scalable Architectures
+
+Open Source & Personal Projects
+
+Gaming & Esports Technology 
+
+
+
+🌱 Currently Learning
+
+Advanced React Ecosystem
+
+Backend Engineering with Node.js
+
+Database Design & Optimization
+
+AI Integration in Web Applications
+
+Software Architecture Patterns
+
+
+
+⚡ Fun Fact
+
+
+I believe the fastest way to learn technology is to build products, break them, improve them, and repeat the process.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivaay_xyz_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-mohite-068736315/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivaaymohite7@gmail.com) 
 
